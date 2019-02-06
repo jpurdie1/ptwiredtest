@@ -1,0 +1,6 @@
+framework module Pods_ptwiredtest {
+  umbrella header "Pods-ptwiredtest-umbrella.h"
+
+  export *
+  module * { export * }
+}
